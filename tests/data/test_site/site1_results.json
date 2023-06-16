@@ -1,0 +1,23 @@
+{
+    "links": [
+        "https://example.com/relative/path",
+        "https://schema.relative.com/path",
+        "https://absolute.org/path/path"
+    ],
+    "title": [
+        "Title Example Meta",
+        "Title Example"
+    ],
+    "emails": [
+        "example@gmail.com",
+        "example_example@example.org"
+    ],
+    "phones": [
+        "+123 456 7890",
+        "+123-456-7890",
+        "1234567890",
+        "+33612121212",
+        "+33 6 12 12 12 12"
+    ],
+    "div_children_elements": "<div class=\"class_name_example\">\n        <a href=\"//schema.relative.com/path\">Schema Relative</a>\n    </div>\n    "
+}
