@@ -22,11 +22,7 @@ ScrapDynamics is a powerful framework for exploring and crawling websites, extra
 To install ScrapDynamics, you can use the following commands:
 
 ```bash
-git clone https://github.com/GuyChahine/ScrapDynamics.git
-```
-
-```bash
-pip install -r requirements.txt
+pip install scrapdyanmics
 ```
 
 ## Getting Started
